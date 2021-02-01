@@ -1,0 +1,27 @@
+{
+    "name": "dracula-redefined",
+    "displayName": "Dracula Redefined",
+    "publisher": "Lakshit Somani",
+    "icon": "exticon.jpg",
+    "author": {
+        "name": "Lakshit Somani",
+        "email": "lakshits11@gmail.com"
+    },
+    "description": "Dracula Redefined - A Dracula fork, with a darker flavoured redefined editor 🧛🏻‍♂️🔌👾",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dracula Redefined 🧛🏻‍♂️",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dracula Redefined 🧛🏻‍♂️-color-theme.json"
+            }
+        ]
+    }
+}
