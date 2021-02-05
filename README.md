@@ -11,6 +11,13 @@
 **HTML**
 ![html](https://user-images.githubusercontent.com/54276661/106507354-f200cf00-64f0-11eb-9f7a-72333e04aefa.JPG)
 
+**CSS**
+![css](https://user-images.githubusercontent.com/54276661/107050938-da2b9280-67f1-11eb-9d98-e5207f613c64.png)
+
+**JavaScript**
+![javascript](https://user-images.githubusercontent.com/54276661/107051044-f7f8f780-67f1-11eb-8663-4635a2b3207e.png)
+
+
 **C**
 ![c](https://user-images.githubusercontent.com/54276661/106507409-047b0880-64f1-11eb-8016-3da572faa334.JPG)
 
@@ -25,7 +32,7 @@
 1. Install [Visual Studio Code](https://code.visualstudio.com/)
 2. Launch Visual Studio Code
 3. Choose **Extensions** from menu
-4. Search for `Best Themes Redefined`
+4. Search for `Dracula Redefined`
 5. Click **Install** to install the extension
 6. Click **Reload** to reload VS Code
 7. Press **Ctrl + K + T** to show installed themes.
@@ -35,7 +42,9 @@
 
 
  
-***Optional:*** Use the recommended settings below for best experience
+***Optional:*** Use the recommended settings below for best experience.
+
+***Note:*** I am using ```colorize``` extension in CSS files to colorize the text according to color.
 
 ## Recommended Settings
 
